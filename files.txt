@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 exexsAdd line
+=======
+1 xxzexexs
+>>>>>>> a21bdfe6ccf2c14270d6ba1ef262c36ec911a063
