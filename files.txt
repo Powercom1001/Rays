@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+testing line
 exexsAdd line
 =======
 1 xxzexexs
